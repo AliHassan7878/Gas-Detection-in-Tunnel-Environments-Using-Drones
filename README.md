@@ -12,7 +12,9 @@ Handled the entire project lifecycle, from requirements engineering to testing a
 ## Technologies
 - Python   
 - Drone hardware integration  
-- Gas sensor modules 
+- Gas sensor modules
+- RestFul APIs
+- Edge Device
 
 ## My Role
 - Gathered requirements and designed the detection workflow.  
